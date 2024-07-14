@@ -1,0 +1,16 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "\"learning npm\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"riad\"",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "date-format": "^4.0.14",
+    "live-server": "^1.2.2"
+  }
+}
